@@ -1,0 +1,27 @@
+.hov:hover{
+    color: blue;
+    transition: all 1s linear;
+}
+.container button{
+    color: white;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn{
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+.btn-2{
+    position: fixed;
+    right: 50px;
+    top: 10px;
+    margin-right: 8rem;
+}
+.btn-3{
+    position: fixed;
+    right: 25px;
+    top: 10px;
+    margin-right: 4rem;
+}
